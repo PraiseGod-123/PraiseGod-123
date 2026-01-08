@@ -10,6 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
