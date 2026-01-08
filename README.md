@@ -7,4 +7,5 @@
   
 
 ## 💻 Tech Stack:
+[![Java](skillicons.dev)](https://skillicons.dev)
 
