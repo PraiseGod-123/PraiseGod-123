@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning deep learning/machine learning
 - 💬 Ask me about mobile developent
 
-## Tech Stack:
+## 💻 Tech Stack:
 
