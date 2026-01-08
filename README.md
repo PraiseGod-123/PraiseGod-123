@@ -19,3 +19,5 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
+## Database:
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
