@@ -9,3 +9,11 @@
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
