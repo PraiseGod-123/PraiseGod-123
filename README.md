@@ -7,5 +7,5 @@
   
 
 ## 💻 Tech Stack:
-[![Java](skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons Java Script)](https://skillicons.dev)
 
